@@ -27,7 +27,11 @@
 * [Wavenet](https://github.com/ibab/tensorflow-wavenet) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 * [Speech-to-Text-WaveNet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
 
-* 
+* [tacotron](https://github.com/Kyubyong/tacotron) - A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
+
+* [segan](https://github.com/santi-pdp/segan) - Speech Enhancement Generative Adversarial Network in TensorFlow
+
+* [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 
 ## Text
 
