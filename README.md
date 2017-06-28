@@ -33,6 +33,8 @@
 
 * [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 
+* [TensorFlow RNN Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial) - Recurrent Neural Networks - A Short TensorFlow Tutorial
+
 ## Text
 
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
