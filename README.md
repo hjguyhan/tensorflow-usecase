@@ -47,6 +47,12 @@
 
 - [syntaxnet](https://github.com/tensorflow/models/tree/master/syntaxnet): neural models of natural language syntax.
 
+* [Word Embedding(Word2vec) with tensorflow](http://solarisailab.com/archives/374) - 텐서플로우(TensorFlow)를 이용해 자연어를 처리하기
+
+* [Sentiment analysis](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb) - Sentiment analysis on forum articles using word2vec and Keras , 정치글 성향을 분석하는 분류기
+
+* [Korean Word Spacing with RNN](http://freesearch.pe.kr/archives/4617) - RNN을 이용한 한글 자동 띄어쓰기
+
 ## Reference
 
 * https://github.com/jtoy/awesome-tensorflow
