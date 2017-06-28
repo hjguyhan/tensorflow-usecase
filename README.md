@@ -1,4 +1,4 @@
-# proteus-tensorflow-usecase
+tensorflow-usecase
 
 ## Image
 
